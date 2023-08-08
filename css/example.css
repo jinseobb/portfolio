@@ -1,0 +1,81 @@
+
+body, p, div, span, ul, ol, li, input, textarea, option, b, i, table, tr, td, th h1, h2, h3, h4, h5, h6{
+    color:#555;
+
+}
+
+.btn{
+    border: 1px solid #999;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+
+}
+
+.btn.primary{
+    background-color: cornflowerblue;
+}
+
+.btn.danger{
+    background-color: tomato;
+}
+
+.btn.warning{
+    background-color: gold;
+}
+
+.btn.small{
+    padding: 2px 5px;
+}
+
+.btn.large{
+    padding: 10px 20px;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.box.small{
+    width:100px;
+    height:100px;
+}
+
+.box.large{
+    width:300px;
+    height:300px;
+}
+
+.box.bg-red{
+    background-color: red;
+}
+
+.box.bg-blue{
+    background-color: blue;
+}
+
+.box.bg-yellow{
+    background-color: yellow;
+}
+
+.box.bg-green{
+    background-color: green;
+}
+
+.box.bg-orange{
+    background-color: orange;
+}
+
+.box.fg-black{
+    color:#000
+}
+
+.box.fg-white{
+    color: #FFF
+}
+
+.box.inline{
+    display:inline-block;
+}
